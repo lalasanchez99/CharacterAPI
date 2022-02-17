@@ -1,0 +1,23 @@
+
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100%;
+    z-index: 1;
+    font-family: 'Shizuru', cursive;
+}
+.headerStyle{
+     background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+     color: #f0f8ff;
+}
+
+.datosPersonas{
+    margin-top: 150px;
+    margin-bottom: 60px;
+    margin-left: 100px;
+    
+}
+
